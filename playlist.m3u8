@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1,A7
+http://77.89.204.105:8003/play/a01h/index.m3u8
+#EXTINF:-1,AMC RO
+http://77.89.204.105:8003/play/a00a/index.m3u8
+#EXTINF:-1,Accent TV
+http://77.89.204.105:8003/play/a03u/index.m3u8
+#EXTINF:-1,Antena 1
+http://77.89.204.105:8003/play/a00e/index.m3u8
+#EXTINF:-1,Antena 3
+http://77.89.204.105:8003/play/a004/index.m3u8
+#EXTINF:-1,Antena Stars
+http://77.89.204.105:8003/play/a00i/index.m3u8
+#EXTINF:-1,Atomic TV
+http://77.89.204.105:8003/play/a03v/index.m3u8
+#EXTINF:-1,B1 TV
+http://77.89.204.105:8003/play/a00z/index.m3u8
+#EXTINF:-1,BBC Earth
+http://77.89.204.105:8003/play/a00b/index.m3u8
+#EXTINF:-1,Bolt
+http://77.89.204.105:8003/play/a01t/index.m3u8
+#EXTINF:-1,Busuioc Tv
+http://77.89.204.105:8003/play/a01n/index.m3u8
+#EXTINF:-1,CTC md
+http://77.89.204.105:8003/play/a01b/index.m3u8
+#EXTINF:-1,Canal 2
+http://77.89.204.105:8003/play/a01a/index.m3u8
+#EXTINF:-1,Canal 3
+http://77.89.204.105:8003/play/a019/index.m3u8
+#EXTINF:-1,Canal 5 HD
+http://77.89.204.105:8003/play/a01i/index.m3u8
+#EXTINF:-1,Cartoon
+http://77.89.204.105:8003/play/a00v/index.m3u8
+#EXTINF:-1,Familia Domashniy HD
+http://77.89.204.105:8003/play/a01r/index.m3u8
+#EXTINF:-1,Favorit TV
+http://77.89.204.105:8003/play/a00c/index.m3u8
+#EXTINF:-1,Film Cafe
+http://77.89.204.105:8003/play/a00d/index.m3u8
+#EXTINF:-1,Film UA Drama
+http://77.89.204.105:8003/play/a01v/index.m3u8
+#EXTINF:-1,Gurinel Tv
+http://77.89.204.105:8003/play/a01e/index.m3u8
+#EXTINF:-1,Happy Channel
+http://77.89.204.105:8003/play/a00g/index.m3u8
+#EXTINF:-1,JurnalFM
+http://77.89.204.105:8003/play/a022/index.m3u8
+#EXTINF:-1,JurnalTV HD
+http://77.89.204.105:8003/play/a021/index.m3u8
+#EXTINF:-1,Kanal D
+http://77.89.204.105:8003/play/a01s/index.m3u8
+#EXTINF:-1,Minimax Ro
+http://77.89.204.105:8003/play/a00f/index.m3u8
+#EXTINF:-1,N24
+http://77.89.204.105:8003/play/a007/index.m3u8
+#EXTINF:-1,N4
+http://77.89.204.105:8003/play/a01m/index.m3u8
+#EXTINF:-1,NTV MD
+http://77.89.204.105:8003/play/a01k/index.m3u8
+#EXTINF:-1,Noroc Tv
+http://77.89.204.105:8003/play/a01o/index.m3u8
+#EXTINF:-1,PRO 2
+http://77.89.204.105:8003/play/a00y/index.m3u8
+#EXTINF:-1,PRO GOLD
+http://77.89.204.105:8003/play/a00x/index.m3u8
+#EXTINF:-1,PRO X
+http://77.89.204.105:8003/play/a00s/index.m3u8
+#EXTINF:-1,Prima TV RO
+http://77.89.204.105:8003/play/a008/index.m3u8
+#EXTINF:-1,Prime HD
+http://77.89.204.105:8003/play/a017/index.m3u8
+#EXTINF:-1,Pro TV
+http://77.89.204.105:8003/play/a01q/index.m3u8
+#EXTINF:-1,Publica Tv
+http://77.89.204.105:8003/play/a018/index.m3u8
+#EXTINF:-1,RTR moldova
+http://77.89.204.105:8003/play/a01j/index.m3u8
+#EXTINF:-1,Realitatea tv
+http://77.89.204.105:8003/play/a03x/index.m3u8
+#EXTINF:-1,Sor Tv
+http://77.89.204.105:8003/play/a01c/index.m3u8
+#EXTINF:-1,SperantaTV
+http://77.89.204.105:8003/play/a015/index.m3u8
+#EXTINF:-1,Star Cinema 
+http://77.89.204.105:8003/play/a01u/index.m3u8
+#EXTINF:-1,Star Family
+http://77.89.204.105:8003/play/a01w/index.m3u8
+#EXTINF:-1,TNT md
+http://77.89.204.105:8003/play/a01l/index.m3u8
+#EXTINF:-1,TV 21
+http://77.89.204.105:8003/play/a01d/index.m3u8
+#EXTINF:-1,TV 6
+http://77.89.204.105:8003/play/a03y/index.m3u8
+#EXTINF:-1,TV 8
+http://77.89.204.105:8003/play/a026/index.m3u8
+#EXTINF:-1,TVR 1
+http://77.89.204.105:8003/play/a005/index.m3u8
+#EXTINF:-1,TVR 2
+http://77.89.204.105:8003/play/a00r/index.m3u8
+#EXTINF:-1,TVR 3
+http://77.89.204.105:8003/play/a00j/index.m3u8
+#EXTINF:-1,Tezaur Folc
+http://77.89.204.105:8003/play/a03z/index.m3u8
+#EXTINF:-1,Vocea Basarabiei
+http://77.89.204.105:8003/play/a01p/index.m3u8
+#EXTINF:-1,Warner TV
+http://77.89.204.105:8003/play/a012/index.m3u8
+#EXTINF:-1,Zal suda
+http://77.89.204.105:8003/play/a01f/index.m3u8
+#EXTINF:-1,Zu TV
+http://77.89.204.105:8003/play/a009/index.m3u8
+#EXTINF:-1,gangnetorwk
+http://77.89.204.105:8003/play/a01g/index.m3u8
+#EXTINF:-1,Шансон ТВ
+http://77.89.204.105:8003/play/a02p/index.m3u8
